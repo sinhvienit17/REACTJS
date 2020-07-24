@@ -1,0 +1,8 @@
+.ant-btn-link > a:only-child:hover {
+    color: green;
+}
+
+.active {
+    color: green;
+    font-weight: 500;
+}

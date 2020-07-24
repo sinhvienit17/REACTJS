@@ -1,0 +1,15 @@
+.tagger {
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: green;
+}
+.ant-tabs-ink-bar {
+    background: green;
+}
+
+.ant-card {
+    margin-left: 40px;
+}

@@ -1,0 +1,23 @@
+.ant-list-item-meta-content {
+    line-height: 0.5rem;
+}
+.longertitle {
+    margin-top: -8px;
+    max-width: 500px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.icon:hover {
+    background-color: rgb(63, 216, 63);
+    color: white;
+}
+svg {
+    color: green;
+}
+.ant-list-lg .ant-list-item {
+    padding: 14px 0px;
+}
+.ant-list-item-meta-description {
+    margin-top: -15px;
+}
